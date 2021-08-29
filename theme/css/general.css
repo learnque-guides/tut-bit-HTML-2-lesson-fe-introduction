@@ -185,8 +185,7 @@ blockquote {
 }
 
 .page-header {
-    position: relative;
-    padding: 1rem;
+    position: sticky;
     display: flex;
     justify-items: stretch;
     justify-content: flex-start;
