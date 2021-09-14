@@ -1,0 +1,11 @@
+# Nuorodos, kad būtų lengviau mokintis :)
+
+1. [https://www.w3schools.com/html](https://www.w3schools.com/html)
+2. [https://www.w3schools.com/css](https://www.w3schools.com/css)
+3. [https://www.w3schools.com/js](https://www.w3schools.com/js)
+4. [https://www.typescriptlang.org/docs/home.html](https://www.typescriptlang.org/docs/home.html)
+5. [HTML Intro (2020) - Eli the Computer Guy](https://www.elithecomputerguy.com/html-intro-2020/)
+6. [Learn HTML in 12 Minutes](https://www.youtube.com/watch?v=bWPMSSsVdPk)
+7. [17 Simple HTML Code Examples You Can Learn in 10 Minutes](https://www.makeuseof.com/tag/simple-html-code-learn-minutes/)
+8. [HTML tutorial on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
+9. [Beginner's roadmap to web development](https://www.freecodecamp.org/news/beginners-roadmap-web-development/)

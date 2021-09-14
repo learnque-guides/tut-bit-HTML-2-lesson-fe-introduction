@@ -1,5 +1,6 @@
 # Summary
 
+- [Nuorodos, kad būtų lengviau mokintis :)](./links.md)
 - [Antraštės (ang. headings) ir paragrafai (ang. paragraphs)](./headings_and_paragraphs.md)
 - [Teksto formavimas](./text_formatting.md)
 - [Užduotis 1](./exercise_1.md)
